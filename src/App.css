@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+.menu{
+  text-align: center;
+  font-size: 25px;
+  margin: 25px;
+  padding: 30px;
+}
+
+.menu a{
+  text-decoration: none;
+  margin: 20px;
+  padding: 8px;
+  border: 2px solid blueviolet;
+  border-radius: 5px;
+  background-color: blueviolet;
+  color: white;
+}
+
+.clock, .stopwatch, .timer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.clock p {
+  font-size: 30px ;
+}

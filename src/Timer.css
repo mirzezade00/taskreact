@@ -1,0 +1,19 @@
+.inputs{
+    margin-left: 22%;
+    margin-top: 80px;
+}
+.inputs input{
+    height: 30px;
+    margin-right: 20px;
+    border: 3px solid black;
+    font-size: 20px;
+}
+.inputs button{
+font-size: 20px;
+padding-bottom: 5px;
+color: black;
+}
+
+.buttons button {
+    margin: 10px;
+}

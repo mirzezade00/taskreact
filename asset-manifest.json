@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Loginpage/static/css/main.70c66fab.css",
-    "main.js": "/Loginpage/static/js/main.8ec66992.js",
-    "static/js/488.b0685959.chunk.js": "/Loginpage/static/js/488.b0685959.chunk.js",
-    "index.html": "/Loginpage/index.html",
-    "main.70c66fab.css.map": "/Loginpage/static/css/main.70c66fab.css.map",
-    "main.8ec66992.js.map": "/Loginpage/static/js/main.8ec66992.js.map",
-    "488.b0685959.chunk.js.map": "/Loginpage/static/js/488.b0685959.chunk.js.map"
+    "main.css": "/taskreact/static/css/main.70c66fab.css",
+    "main.js": "/taskreact/static/js/main.f551a33c.js",
+    "static/js/488.b0685959.chunk.js": "/taskreact/static/js/488.b0685959.chunk.js",
+    "index.html": "/taskreact/index.html",
+    "main.70c66fab.css.map": "/taskreact/static/css/main.70c66fab.css.map",
+    "main.f551a33c.js.map": "/taskreact/static/js/main.f551a33c.js.map",
+    "488.b0685959.chunk.js.map": "/taskreact/static/js/488.b0685959.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.70c66fab.css",
-    "static/js/main.8ec66992.js"
+    "static/js/main.f551a33c.js"
   ]
 }
